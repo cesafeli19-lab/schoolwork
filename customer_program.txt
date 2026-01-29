@@ -1,0 +1,19 @@
+start
+Declarations 
+string name
+num balance
+input name, balance
+displayAddressInfo ()
+output "Customer: ", name
+output "Total: ", balance
+stop
+
+displayAddressInfo ()
+   Declarations
+   string LINE1 = "ABC Manufacturing"
+   string LINE2 = "47 Park Lane"
+   string Line3 = "Omro, WI 54963"
+  output LINE1
+  output LINE2
+  output LINE3
+return
